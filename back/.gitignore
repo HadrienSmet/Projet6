@@ -44,5 +44,5 @@ Thumbs.db
 dbConfig.js
 .env
 package-lock.json
-/images/*.jpg
+images/*
 
